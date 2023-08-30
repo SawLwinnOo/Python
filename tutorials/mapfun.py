@@ -1,5 +1,5 @@
 
-
+#Mapping applies a transformation function to an iterable and produces a new iterable of transformed items
 #Return an iterator that applies function to every item of iterable, yielding the results.
 #first agrument of map is function and second agrument is iteable
 
